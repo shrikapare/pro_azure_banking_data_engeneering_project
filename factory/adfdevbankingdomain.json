@@ -1,0 +1,9 @@
+{
+	"name": "adfdevbankingdomain",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b0b3cad2-5be9-4889-844f-6a4b9639c509",
+		"tenantId": "8433a336-c407-4837-baeb-54b7d355fc6b"
+	}
+}
